@@ -4,14 +4,13 @@ React Media Downloader é uma aplicação web que permite buscar e baixar músic
 
 ## 📋 Índice
 
-- [Contexto](#contexto)
-- [Funcionalidades](#funcionalidades)
-- [Estrutura do Projeto](#estrutura-do-projeto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
+- [Contexto](#🌟-contexto)
+- [Funcionalidades](#🚀-funcionalidades)
+- [Estrutura do Projeto](#📁-módulos)
+- [Tecnologias Utilizadas](#🛠️-tecnologias-utilizadas)
+- [Instalação](#📦-instalação)
+- [Uso](#▶️-uso)
+- [LICENSE](./LICENSE)
 
 ## 🌟 Contexto
 
